@@ -149,7 +149,7 @@ public class Calculator {
                 System.out.println("The result is - " + result);
             } else {
                 choice = 9;
-                System.out.println("Thank you for using!");
+                System.out.println("Thank you for using! x");
                 break;
             }
             
